@@ -1,3 +1,5 @@
+[![Tests](https://github.com/sethtomy/milliseconds/actions/workflows/tests.yaml/badge.svg)](https://github.com/sethtomy/milliseconds/actions/workflows/tests.yaml)
+
 # milliseconds
 
 A package for obvious time-interval to millisecond conversions.
