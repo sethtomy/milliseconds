@@ -1,5 +1,5 @@
 {
-  "name": "milliseconds",
+  "name": "@sethtomy/milliseconds",
   "version": "0.1.0",
   "description": "An expressive API for converting common time measurements into milliseconds",
   "main": "index.js",
@@ -12,8 +12,12 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Seth Tomy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sethtomy/milliseconds.git"
+  },
   "devDependencies": {
     "@types/jest": "^27.0.2",
     "@types/node": "^16.10.2",
